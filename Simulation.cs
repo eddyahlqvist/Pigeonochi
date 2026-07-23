@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Pigeonochi
+namespace Pigeonotchi
 {
     internal class Simulation
     {

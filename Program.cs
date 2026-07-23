@@ -1,7 +1,7 @@
-﻿// Pigeonochi started as a C# learning experience 2026-07-23
+﻿// Pigeonotchi started as a C# learning experience 2026-07-23
 // by Edius Ahlqvistus.
 
-namespace Pigeonochi
+namespace Pigeonotchi
 {
     internal class Program
     {

@@ -1,10 +1,10 @@
 ﻿namespace Pigeonotchi
 {
-    internal class Pigeon
+    internal class Player
     {
         public string Name { get; }
 
-        public Pigeon(string name)
+        public Player(string name)
         {
             Name = name;
         }
