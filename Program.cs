@@ -1,12 +1,14 @@
-﻿using System;
+﻿// Pigeonochi started as a C# learning experience 2026-07-23
+// by Edius Ahlqvistus.
 
 namespace Pigeonochi
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, Pigeon!");
+            var simulation = new Simulation();
+            simulation.Run();
         }
     }
 }
