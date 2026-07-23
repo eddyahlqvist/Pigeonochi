@@ -24,7 +24,7 @@ namespace Pigeonotchi
 
         private void TemporaryMethod() // will be removed soon
         {
-            Console.WriteLine($"Hello, {_pigeon.Name}!");
+            Console.WriteLine($"Hello, {_pigeon.Name}!!");
         }
     }
 }
